@@ -1029,7 +1029,7 @@ train_examples = [
     InputExample(texts=["Can rescheduled exams be further postponed in case of emergencies?", "What is the schedule for semester exams at BFGI?"], label=1.0),
     InputExample(texts=["Will my rescheduled exam clash with other classes or tests?", "What is the schedule for semester exams at BFGI?"], label=1.0),
     InputExample(texts=["How is the integrity of rescheduled exams maintained?", "What is the schedule for semester exams at BFGI?"], label=1.0),
-    InputExample(texts=["Are rescheduled exams recorded differently in the academic transcript? ", "What is the schedule for semester exams at BFGI?"], label=1.0)
+    InputExample(texts=["Are rescheduled exams recorded differently in the academic transcript? ", "What is the schedule for semester exams at BFGI?"], label=1.0),
 
    # 15, GREETINGS
    InputExample(texts=["How are you doing today? ", "How are you today?"], label=1.0),
