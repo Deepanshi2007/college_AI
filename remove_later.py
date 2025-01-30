@@ -15,8 +15,8 @@ import spacy
 from spacy.training import offsets_to_biluo_tags
 
 # Text and correct entity span
-text = "Can I apply for a scholarship at BFCET?"
-entities = [(33, 38, "COLLEGE")]  # Correct span
+text = "Do you offer a BTech program?"
+entities = [(15, 20, "BTech")]  # Correct span
 
 # Create a spaCy doc
 nlp = spacy.blank("en")
